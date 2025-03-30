@@ -1,0 +1,21 @@
+product_id,name,category,price
+1,Grilled Salmon,Fish,15.99
+2,Fish and Chips,Fish,12.99
+3,Tuna Steak,Fish,18.99
+4,Lobster Roll,Fish,22.99
+5,Fried Calamari,Fish,11.99
+6,Sea Bass,Fish,17.99
+7,Mussels Marinara,Fish,14.99
+8,Grilled Shrimp,Fish,16.49
+9,Smoked Trout,Fish,19.99
+10,Sushi Platter,Fish,24.99
+11,Crab Cakes,Fish,20.99
+12,Cod Fillet,Fish,13.99
+13,Oysters,Fish,21.49
+14,Mahi Mahi,Fish,17.99
+15,Swordfish Steak,Fish,23.99
+16,Chocolate Lava Cake,Dessert,7.99
+17,Apple Pie,Dessert,5.99
+18,Cheesecake,Dessert,6.99
+19,Red Berry Compote,Dessert,5.49
+20,Vanilla Quark,Dessert,4.99
